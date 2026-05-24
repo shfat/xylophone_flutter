@@ -1,0 +1,24 @@
+# Flutter
+.dart_tool/
+.build/
+build/
+**/build/
+pubspec.lock
+*.iml
+*.iws
+.idea/
+.DS_Store
+**/android/.kotlin/
+**/android/local.properties
+**/android/app/build/
+**/android/.gradle/
+**/ios/.symlinks/
+**/ios/Pods/
+**/ios/Podfile.lock
+**/ios/build/
+**/linux/
+**/macos/
+**/windows/
+**/web/
+.metadata
+
